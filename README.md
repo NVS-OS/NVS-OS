@@ -9,15 +9,10 @@
 
 ``` 
 ╔════❰ABOUT ANKIT❱═❍⊱❁۪۪
-
 ║┣⪼ NAME - ANKIT KUMAR
-
 ║┣⪼ AGE - 14
-
 ║┣⪼ CLASS - 9TH 
-
 ║┣⪼ LOCATION - INDIA
-
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱
                                                          
